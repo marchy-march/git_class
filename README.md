@@ -1,1 +1,1 @@
-# git_class
+# git_class made by Natalia and Marcia
